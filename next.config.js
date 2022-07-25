@@ -6,7 +6,7 @@ const nextConfig = {
   compiler: {
     styledComponents: true
   },
-  basePath: "/beer_testovoee/",
+  basePath: "/beer_testovoee",
   assetPrefix: "/beer_testovoee"
 };
 
