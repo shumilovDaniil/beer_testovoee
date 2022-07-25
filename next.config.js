@@ -5,7 +5,9 @@ const nextConfig = {
   swcMinify: true,
   compiler: {
     styledComponents: true
-  }
+  },
+  basePath: "/beer_testovoee/",
+  assetPrefix: "/beer_testovoee"
 };
 
 module.exports = nextConfig;
